@@ -10,7 +10,7 @@ version = 1.0
 # database.py, manpower_data.py, main.py all pure Python - sqlite3 is
 # part of the Python standard library and bundled by python-for-android
 # automatically, so it does not need to be listed separately.
-requirements = python3==3.11.8,hostpython3==3.11.8,kivy==2.3.0
+requirements = python3,kivy==2.3.0
 
 orientation = portrait
 fullscreen = 0
